@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "Zara",
+    "name": "Relaxed Fit Gri Sweatshirt",
+    "category": "üst",
+    "clothing_type": "hoodie",
+    "color": "gri",
+    "style_tags": ["minimal", "casual", "streetwear"],
+    "price": 1299,
+    "url": "https://www.zara.com/tr/"
+  },
+  {
+    "brand": "Zara",
+    "name": "Basic Beyaz Tişört",
+    "category": "üst",
+    "clothing_type": "t-shirt",
+    "color": "beyaz",
+    "style_tags": ["minimal", "casual"],
+    "price": 699,
+    "url": "https://www.zara.com/tr/"
+  },
+  {
+    "brand": "Levi's",
+    "name": "501 Original Mavi Jean",
+    "category": "alt",
+    "clothing_type": "kot pantolon",
+    "color": "mavi",
+    "style_tags": ["casual", "classic"],
+    "price": 3499,
+    "url": "https://www.levi.com.tr/"
+  },
+  {
+    "brand": "Levi's",
+    "name": "Straight Fit Koyu Jean",
+    "category": "alt",
+    "clothing_type": "kot pantolon",
+    "color": "lacivert",
+    "style_tags": ["minimal", "classic"],
+    "price": 3299,
+    "url": "https://www.levi.com.tr/"
+  },
+  {
+    "brand": "Mavi",
+    "name": "Jake Straight Mavi Jean",
+    "category": "alt",
+    "clothing_type": "kot pantolon",
+    "color": "mavi",
+    "style_tags": ["casual", "minimal"],
+    "price": 1799,
+    "url": "https://www.mavi.com/"
+  },
+  {
+    "brand": "Mavi",
+    "name": "Marcus Regular Jean",
+    "category": "alt",
+    "clothing_type": "kot pantolon",
+    "color": "mavi",
+    "style_tags": ["casual", "streetwear"],
+    "price": 1599,
+    "url": "https://www.mavi.com/"
+  },
+  {
+    "brand": "Zara",
+    "name": "Overshirt Ceket",
+    "category": "üst",
+    "clothing_type": "ceket",
+    "color": "siyah",
+    "style_tags": ["minimal", "streetwear"],
+    "price": 1899,
+    "url": "https://www.zara.com/tr/"
+  },
+  {
+    "brand": "Zara",
+    "name": "Oxford Gömlek",
+    "category": "üst",
+    "clothing_type": "gömlek",
+    "color": "beyaz",
+    "style_tags": ["classic", "minimal"],
+    "price": 1499,
+    "url": "https://www.zara.com/tr/"
+  },
+  {
+    "brand": "Mavi",
+    "name": "Basic Jogger Eşofman Altı",
+    "category": "alt",
+    "clothing_type": "eşofman",
+    "color": "gri",
+    "style_tags": ["casual", "streetwear"],
+    "price": 999,
+    "url": "https://www.mavi.com/"
+  }
+]
